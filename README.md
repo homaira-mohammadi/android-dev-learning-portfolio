@@ -38,7 +38,7 @@ Each module represents a milestone in my progress, from mastering Kotlin fundame
 - **CoursesApp** – Displaying structured course information  
 - **Superheroes App** – Showcasing superhero profiles with Compose  
 **Repositories:**  
-👉 https://me.developers.google.com/u/108491141824804869843
+👉 https://github.com/homaira-mohammadi/Module3-Superheroes.git
 👉 https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
 ---
 
