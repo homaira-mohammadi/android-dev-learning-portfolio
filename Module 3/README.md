@@ -1,50 +1,24 @@
-# 🎓 Module 3 – Android Studio Badge Unit Analysis
+# 🎓 Module 3 – More Kotlin Fundamentals
 
 ## 📘 Overview
-In Module 3, I advanced my knowledge of **Kotlin fundamentals** and applied them to build two Android apps using **Jetpack Compose**:
-1. **CoursesApp** – An app that displays courses with structured layouts and reusable components.  
-2. **Superheroes** – An app that showcases superhero profiles with images, text, and interactive UI elements.  
+In this module, I explored advanced Kotlin concepts such as **data classes**, **enums**, **lists**, and **extension properties**.  
+I also practiced filtering, grouping, and analyzing data using Kotlin’s collection functions.
+
+## 💡 Key Concepts
+- Data classes and enums  
+- Mutable lists and filtering  
+- Grouping data with `groupBy()`  
+- Extension properties for computed values  
+
+## 🧠 Learning Outcome
+This module strengthened my understanding of Kotlin’s object-oriented and functional programming features.  
+I also built two apps — **CoursesApp** and **Superheroes** — which apply these concepts in Android development.
+
+👉 https://me.developers.google.com/u/108491141824804869843
+👉 https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
 
 ---
 
-## 💡 Kotlin Fundamentals (Extended)
-This module reinforced and expanded my Kotlin skills:
-- Working with lists and collections  
-- Using higher-order functions and lambdas  
-- Practicing object-oriented design with classes and data classes  
-- Managing state and recomposition in Jetpack Compose  
-- Building reusable `@Composable` functions for cleaner UI code  
-
----
-
-## 📱 CoursesApp
-The **CoursesApp** project demonstrates:
-- Displaying structured course information in a list format  
-- Using `LazyColumn` for efficient scrolling  
-- Applying Material Design components for a modern UI  
-
-👉 [Repositroy Link]https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
-
----
-
-## 🦸 Superheroes App
-The **Superheroes** project demonstrates:
-- Creating a card-based layout with images and text  
-- Using `LazyColumn` and `Card` components  
-- Practicing state management and UI responsiveness  
-- Strengthening skills in Compose’s layout system  
-
-👉 [Repositroy Link] https://github.com/homaira-mohammadi/Module3-Superheroes.git
----
-
-## 🧠 Reflection
-By completing Module 3, I:
-- Deepened my understanding of Kotlin fundamentals  
-- Learned how to structure larger apps with multiple composables  
-- Practiced building apps that combine **logic + UI design**  
-- Gained confidence in applying Jetpack Compose to real-world projects  
-
----
 ## 🏅 Badges
 You can view all my earned badges here:  
 👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
