@@ -16,3 +16,8 @@ Key concepts learned:
 - Writing functions and using parameters  
 - Performing basic math operations  
 - Using string templates (`"Hello
+  
+----
+## 🏅 Badges
+You can view all my earned badges here:  
+👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
