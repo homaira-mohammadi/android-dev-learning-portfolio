@@ -23,7 +23,7 @@ The **CoursesApp** project demonstrates:
 - Using `LazyColumn` for efficient scrolling  
 - Applying Material Design components for a modern UI  
 
-👉 https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
+👉 [Repositroy Link]https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
 
 ---
 
@@ -34,7 +34,7 @@ The **Superheroes** project demonstrates:
 - Practicing state management and UI responsiveness  
 - Strengthening skills in Compose’s layout system  
 
-👉 https://github.com/homaira-mohammadi/Module3-Superheroes.git
+👉 [Repositroy Link] https://github.com/homaira-mohammadi/Module3-Superheroes.git
 ---
 
 ## 🧠 Reflection
@@ -45,5 +45,6 @@ By completing Module 3, I:
 - Gained confidence in applying Jetpack Compose to real-world projects  
 
 ---
-
-📌 *This README documents my Module 3 learning journey and links to the repositories where the full apps are hosted.*
+## 🏅 Badges
+You can view all my earned badges here:  
+👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
