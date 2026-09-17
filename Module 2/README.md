@@ -17,3 +17,6 @@ I’ve uploaded the full project to another repository.
 ## Reflection
 This module helped me understand how Kotlin code interacts with Android UI elements.  
 It also strengthened my confidence in using Android Studio for layout design and app testing.
+## 🏅 Badges
+You can view all my earned badges here:  
+👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
