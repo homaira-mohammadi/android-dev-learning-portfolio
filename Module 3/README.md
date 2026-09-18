@@ -1,24 +1,25 @@
-# 🎓 Module 3 – More Kotlin Fundamentals
+# Module 3 – More Kotlin Fundamentals
 
-## 📘 Overview
-In this module, I explored advanced Kotlin concepts such as **data classes**, **enums**, **lists**, and **extension properties**.  
-I also practiced filtering, grouping, and analyzing data using Kotlin’s collection functions.
+## Overview
 
-## 💡 Key Concepts
-- Data classes and enums  
-- Mutable lists and filtering  
-- Grouping data with `groupBy()`  
-- Extension properties for computed values  
+In this module, I learned more advanced **Kotlin** concepts and practiced working with different types of data.
 
-## 🧠 Learning Outcome
-This module strengthened my understanding of Kotlin’s object-oriented and functional programming features.  
-I also built two apps — **CoursesApp** and **Superheroes** — which apply these concepts in Android development.
+## What I Learned
 
-👉 https://me.developers.google.com/u/108491141824804869843
-👉 https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
+* How to use data classes and enums.
+* How to create and modify lists.
+* How to filter and group data using Kotlin functions.
+* How to use extension properties.
+* How Kotlin concepts can be applied in Android applications.
 
----
+## Analysis
 
-## 🏅 Badges
-You can view all my earned badges here:  
-👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
+This module helped me understand how Kotlin can be used to organize and process data. I applied these concepts while working on the **CoursesApp** and **Superheroes** apps, which gave me more practical experience with Android development.
+
+## Projects
+
+[CoursesApp Repository](https://github.com/homaira-mohammadi/Module3_CoursesAPP)
+
+[Superheroes Repository](https://github.com/homaira-mohammadi/Module3-Superheroes)
+
+[Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
