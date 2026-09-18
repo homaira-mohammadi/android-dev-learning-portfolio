@@ -1,4 +1,4 @@
-# Module 3 – More Kotlin Fundamentals
+# Module 3: More Kotlin Fundamentals
 
 ## Overview
 
