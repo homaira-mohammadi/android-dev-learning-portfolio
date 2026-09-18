@@ -1,4 +1,4 @@
-# Module 4 – Android Development
+# Module 4: Android Development
 
 ## Overview
 
