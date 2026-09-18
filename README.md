@@ -1,14 +1,14 @@
-# 🎓 Android Development Learning Journey – Kotlin & Jetpack Compose
+# Android Development Learning Journey – Kotlin & Jetpack Compose
 
-## 👩‍💻 Overview
+## Overview
 This repository documents my learning journey through Android development using **Kotlin** and **Jetpack Compose**.  
 Each module represents a milestone in my progress, from mastering Kotlin fundamentals to building fully functional Android apps.
 
 ---
 
-## 📂 Modules Summary
+## Modules Summary
 
-### 🧩 Module 1 – Kotlin Basics
+### Module 1 – Kotlin Basics
 **Focus:** Introduction to Kotlin syntax and programming fundamentals.  
 **Highlights:**
 - Variables, data types, and operators  
@@ -18,7 +18,7 @@ Each module represents a milestone in my progress, from mastering Kotlin fundame
 
 ---
 
-### 💡 Module 2 – Kotlin Fundamentals & Lemonade App
+### Module 2 – Kotlin Fundamentals & Lemonade App
 **Focus:** Deepening Kotlin understanding and applying it in Android Studio.  
 **Highlights:**
 - Object-oriented programming (classes, functions, and constructors)  
@@ -28,7 +28,7 @@ Each module represents a milestone in my progress, from mastering Kotlin fundame
 
 ---
 
-### 🧠 Module 3 – More Kotlin Fundamentals
+###  Module 3 – More Kotlin Fundamentals
 **Focus:** Advanced Kotlin concepts and data handling.  
 **Highlights:**
 - Data classes and enums  
@@ -42,7 +42,7 @@ Each module represents a milestone in my progress, from mastering Kotlin fundame
 👉 https://github.com/homaira-mohammadi/Module3_CoursesAPP.git
 ---
 
-### 🏗️ Module 4 – Architecture & Navigation
+###  Module 4 – Architecture & Navigation
 **Focus:** Building complex apps with architecture components and adaptive UI.  
 **Highlights:**
 - ViewModels, UI State, and StateFlow  
@@ -59,13 +59,13 @@ Each module represents a milestone in my progress, from mastering Kotlin fundame
 
 ---
 
-## 🏅 Badges
+##  Badges
 You can view all my earned badges and learning progress here:  
 👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
 
 ---
 
-## 🧭 Reflection
+## Reflection
 Throughout these modules, I’ve learned to:
 - Write clean and efficient Kotlin code  
 - Design interactive and adaptive Android UIs  
