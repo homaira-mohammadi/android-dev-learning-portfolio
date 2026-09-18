@@ -1,22 +1,26 @@
-# 🍋 Module 2 – Lemonade App (Android Studio)
+# Module 2: Lemonade App
 
 ## Overview
-In Module 2, I learned the **fundamentals of Kotlin** and how to design a simple **Android app UI** using **Jetpack Compose**.  
-This module focused on connecting Kotlin logic with interactive UI components.
 
-## Learning Highlights
-- Practiced Kotlin basics: variables, functions, and classes.
-- Explored Android Studio project structure and the `AndroidManifest.xml` file.
-- Designed the **Lemonade app UI** — a fun interactive app where users tap the lemon to squeeze it.
-- Learned how to preview and test the app using the **Pixel emulator**.
+In this module, I learned the basics of **Kotlin** and **Jetpack Compose** by building a simple interactive Lemonade app.
 
-## Repository Link
-I’ve uploaded the full project to another repository.  
-👉https://github.com/homaira-mohammadi/Module2_Lemonade
+## What I Learned
 
-## Reflection
-This module helped me understand how Kotlin code interacts with Android UI elements.  
-It also strengthened my confidence in using Android Studio for layout design and app testing.
-## 🏅 Badges
-You can view all my earned badges here:  
-👉 [Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
+* How to use Kotlin variables, functions, and classes.
+* How an Android Studio project is organized.
+* The purpose of the `AndroidManifest.xml` file.
+* How to create a simple UI using Jetpack Compose.
+* How to make the app respond to user actions.
+* How to preview and test an Android app using an emulator.
+
+## Analysis
+
+The Lemonade app helped me understand how Kotlin logic connects with the Android user interface. I also learned how user actions can change the app's behavior and how to test the application during development.
+
+## Repository
+
+[View the Lemonade App Project](https://github.com/homaira-mohammadi/Module2_Lemonade)
+
+## Badges
+
+[Google Developers Badge Profile](https://me.developers.google.com/u/108491141824804869843)
